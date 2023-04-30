@@ -23,6 +23,10 @@ body {
     box-shadow: 2px 2px 2px #727272;
 }
 
+.list p:hover{
+    color:#612f9c;
+}
+
 .list h2 {
     background: rgb(107, 66, 152);
     color: whitesmoke;
